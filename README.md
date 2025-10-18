@@ -1,32 +1,30 @@
-# Evaluating Higher Education through the University of Reading’s LLM Experience
+# The University of Reading’s LLM Experience as a Mirror of Higher Education
 
-### Epistemic Clientelism, Optocratic Drift, and the Case for a Pedagogy of Fiduciary Dialogue
+### Epistemic Clientelism, Optocratic Drift, and the Pedagogy of Fiduciary Dialogue
 
 by Peter Kahl, 2025-10-18
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
-![A minimalist digital illustration showing two abstract human figures facing each other against a pale, textured background. The figure on the left is blue, the figure on the right orange. Each holds a lantern glowing softly with a white circle of light; the blue figure’s lantern is raised slightly higher. The shapes are geometric and stylised — curved planes, clean lines — creating symmetry and calm. The composition evokes mentorship, dialogue, and shared illumination, symbolising knowledge exchanged through trust and reciprocity.](https://github.com/Peter-Kahl/Evaluating-Higher-Education-through-the-University-of-Readings-LLM-Experience/blob/main/fiduciary_dialogue.jpg?raw=true)
+![A minimalist digital illustration showing two abstract human figures facing each other against a pale, textured background. The figure on the left is blue, the figure on the right orange. Each holds a lantern glowing softly with a white circle of light; the blue figure’s lantern is raised slightly higher. The shapes are geometric and stylised — curved planes, clean lines — creating symmetry and calm. The composition evokes mentorship, dialogue, and shared illumination, symbolising knowledge exchanged through trust and reciprocity.](https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/blob/main/fiduciary_dialogue.jpg?raw=true)
 
 ## Abstract
 
-This paper examines the University of Reading’s LLM programme as a living case of the epistemic, fiduciary, and pedagogical tensions defining higher education today. It is written not in grievance but in fulfilment of the university’s own invitation for feedback—an act of reflective candour rather than administrative compliance. By situating personal experience within the broader analytical framework of _Epistemic Clientelism Theory_ (Kahl 2025) and _Epistemocracy in Higher Education_ (Kahl 2025), the paper argues that universities increasingly reproduce epistemic dependency and performative visibility rather than authentic dialogue.
+This essay examines the University of Reading’s LLM programme as a microcosm of systemic tendencies within contemporary higher education.  It argues that what appears as an isolated pedagogical experience in fact reflects broader epistemic and ethical dynamics—**epistemic clientelism**, where recognition is exchanged for conformity, and **optocratic drift**, where visibility replaces truth as the organising principle of institutional life.  Through the analytical frameworks of _Epistemic Clientelism Theory_ (Kahl 2025d) and _Epistemocracy in Higher Education_ (Kahl 2025g), the study interprets the LLM environment as a site where managerial aesthetics and moral caution converge to suppress dialogical learning.  Feedback rituals, group-based assessments, and the omnipresence of leadership imagery exemplify a culture of procedural participation that manages emotion rather than cultivates candour.
 
-Drawing on evidence from institutional communication and culture—feedback mechanisms that pre-structure consent, ceremonial “How’s it going?” events, and the recurring visual branding of vice-chancellorial leadership—the study identifies how higher education’s fiduciary mandate to truth and plurality has been displaced by optocratic drift and substitutive visibility. Even seemingly progressive gestures, such as the University’s use of the “global-warming stripes” visual, illustrate how inherited virtue substitutes for living epistemic plurality.
-
-The paper concludes with a proposal for a pedagogy of fiduciary dialogue: an ethical-epistemic framework that re-anchors education in reciprocity, candour, and care. Instead of managerial feedback loops, universities must cultivate fiduciary relationships of mutual accountability—where speaking truth is an act of service to knowledge itself.
+Against this backdrop, the essay proposes a constructive alternative: a **pedagogy of fiduciary dialogue**.  Drawing on Kahl’s (2025b, 2025e, 2025p) fiduciary-epistemic ethics, it envisions education as reciprocal trusteeship—an ethical relationship in which teachers and students share responsibility for sustaining truth through candour, trust, and justice.  By reframing feedback as covenant rather than survey, the essay performs its own argument: it offers feedback by other means, modelling what institutional dialogue might become when critique is understood not as dissent but as stewardship.  In doing so, it advances a vision of the university as a fiduciary polity of knowledge—one governed by conscience rather than optics, and by care rather than compliance.
 
 ## Keywords
 
-epistemic clientelism, fiduciary dialogue, optocratic drift, substitutive visibility, epistemic justice, higher education governance, fiduciary ethics, pedagogy of openness, epistemic reciprocity, institutional reform, epistemocracy, cognitive dissonance, academic transparency, fiduciary trust, knowledge stewardship
+fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fiduciary ethics, epistemic justice, higher education governance, institutional trust, academic candour, feedback culture, fiduciary pedagogy, epistemic responsibility, dialogical learning, university reform, moral epistemology
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Evaluating-Higher-Education-through-the-University-of-Readings-LLM-Experience/master/Kahl_P_Evaluating_Higher_Education_through_the_University_of_Reading_2025-10-18.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_2025-10-18.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). _Evaluating higher education through the University of Reading’s LLM experience: Epistemic clientelism, optocratic drift, and the case for a pedagogy of fiduciary dialogue_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Evaluating-Higher-Education-through-the-University-of-Readings-LLM-Experience
+Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of higher education: Epistemic clientelism, optocratic drift, and the pedagogy of fiduciary dialogue_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education
 
 ## Publisher & Licence
 
