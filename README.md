@@ -14,6 +14,8 @@ This essay examines the University of Reading’s LLM programme as a microcosm o
 
 Against this backdrop, the essay proposes a constructive alternative: a **pedagogy of fiduciary dialogue**.  Drawing on Kahl’s (2025b, 2025e, 2025p) fiduciary-epistemic ethics, it envisions education as reciprocal trusteeship—an ethical relationship in which teachers and students share responsibility for sustaining truth through candour, trust, and justice.  By reframing feedback as covenant rather than survey, the essay performs its own argument: it offers feedback by other means, modelling what institutional dialogue might become when critique is understood not as dissent but as stewardship.  In doing so, it advances a vision of the university as a fiduciary polity of knowledge—one governed by conscience rather than optics, and by care rather than compliance.
 
+The revised edition incorporates new field observations from campus safety communications and visual campaigns, analysing their epistemic and psychological effects. It argues that these well-intentioned messages exemplify the **pedagogy of fear**—a managerial aesthetic that converts fiduciary care into surveillance and replaces relational trust with hypervigilance.
+
 ## Keywords
 
 fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fiduciary ethics, epistemic justice, higher education governance, institutional trust, academic candour, feedback culture, fiduciary pedagogy, epistemic responsibility, dialogical learning, university reform, moral epistemology
