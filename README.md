@@ -4,7 +4,7 @@
 
 by Peter Kahl, 2025-10-18; v2: 2025-10-30
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17385633-blue.svg)] (https://doi.org/10.5281/zenodo.17385633) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17385633-blue.svg)](https://doi.org/10.5281/zenodo.17385633) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A minimalist digital illustration showing two abstract human figures facing each other against a pale, textured background. The figure on the left is blue, the figure on the right orange. Each holds a lantern glowing softly with a white circle of light; the blue figure’s lantern is raised slightly higher. The shapes are geometric and stylised — curved planes, clean lines — creating symmetry and calm. The composition evokes mentorship, dialogue, and shared illumination, symbolising knowledge exchanged through trust and reciprocity.](https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/blob/main/fiduciary_dialogue.jpg?raw=true)
 
