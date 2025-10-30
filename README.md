@@ -2,9 +2,9 @@
 
 ### Epistemic Clientelism, Optocratic Drift, and the Pedagogy of Fiduciary Dialogue
 
-by Peter Kahl, 2025-10-18
+by Peter Kahl, 2025-10-18; v2: 2025-10-30
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17385634.svg)](https://doi.org/10.5281/zenodo.17385634) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17385633.svg)](https://doi.org/10.5281/zenodo.17385633) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A minimalist digital illustration showing two abstract human figures facing each other against a pale, textured background. The figure on the left is blue, the figure on the right orange. Each holds a lantern glowing softly with a white circle of light; the blue figure’s lantern is raised slightly higher. The shapes are geometric and stylised — curved planes, clean lines — creating symmetry and calm. The composition evokes mentorship, dialogue, and shared illumination, symbolising knowledge exchanged through trust and reciprocity.](https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/blob/main/fiduciary_dialogue.jpg?raw=true)
 
@@ -20,16 +20,17 @@ fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fidu
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_2025-10-18.pdf)
+- [Download version v2](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_v2_2025-10-31.pdf) ✅ _latest_
+- [Download version v2](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_2025-10-18.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of higher education: Epistemic clientelism, optocratic drift, and the pedagogy of fiduciary dialogue_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education DOI: https://doi.org/10.5281/zenodo.17385634
+Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of higher education: Epistemic clientelism, optocratic drift, and the pedagogy of fiduciary dialogue_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education DOI: https://doi.org/10.5281/zenodo.17385633
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 2025-10-18.
+First published in Great Britain by Lex et Ratio Ltd, 2025-10-18.\
+v2 published in London by Lex et Ratio Ltd, 2025-10-30.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
