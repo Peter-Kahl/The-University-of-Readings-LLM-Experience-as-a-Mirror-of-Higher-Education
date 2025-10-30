@@ -27,7 +27,7 @@ fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fidu
 
 ## Cite this work
 
-Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of higher education: Epistemic clientelism, optocratic drift, and the pedagogy of fiduciary dialogue_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education DOI: https://doi.org/10.5281/zenodo.17385633
+Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of higher education: Epistemic clientelism, optocratic drift, and the pedagogy of fiduciary dialogue_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education DOI: https://doi.org/10.5281/zenodo.17385633
 
 ## Publisher & Licence
 
