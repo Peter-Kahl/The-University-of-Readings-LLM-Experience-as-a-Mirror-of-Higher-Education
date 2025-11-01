@@ -20,7 +20,7 @@ The revised edition incorporates new field observations from campus safety commu
 
 ## Keywords
 
-fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fiduciary ethics, epistemic justice, higher education governance, institutional trust, academic candour, feedback culture, fiduciary pedagogy, epistemic responsibility, dialogical learning, university reform, moral epistemology
+fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fiduciary ethics, epistemic justice, higher education governance, institutional trust, academic candour, feedback culture, fiduciary pedagogy, epistemic responsibility, dialogical learning, university reform, moral epistemology, pedagogy of fear
 
 ## Download
 
