@@ -2,6 +2,8 @@
 
 ### Epistemic Clientelism, Optocratic Drift, and the Pedagogy of Fiduciary Dialogue
 
+---
+
 by Peter Kahl, 2025-10-18; v2: 2025-10-30
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17385633-blue.svg)](https://doi.org/10.5281/zenodo.17385633) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
@@ -22,8 +24,11 @@ fiduciary dialogue, epistemic clientelism, optocratic drift, epistemocracy, fidu
 
 ## Download
 
-- [Download version v2](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_v2_2025-10-31.pdf) ✅ _latest_
-- [Download version v1](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_2025-10-18.pdf)
+- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_v2_2025-10-31.pdf) ✅ _latest_
+
+### Older versions
+
+- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/The-University-of-Readings-LLM-Experience-as-a-Mirror-of-Higher-Education/master/Kahl_P_The_University_of_Readings_LLM_Experience_2025-10-18.pdf)
 
 ## Cite this work
 
@@ -31,7 +36,7 @@ Kahl, P. (2025). _The University of Reading’s LLM experience as a mirror of hi
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 2025-10-18.\
+v1 published in London by Lex et Ratio Ltd, 2025-10-18.\
 v2 published in London by Lex et Ratio Ltd, 2025-10-30.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
